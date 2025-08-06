@@ -1,0 +1,1 @@
+g++ tut1.cpp glad/src/glad.c -Iglad/include -lglfw -ldl -lGL -o tut1
