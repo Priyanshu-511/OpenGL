@@ -7,4 +7,4 @@ pixel shader, Rasterization also various activity like geometric shader etc
 which will be later in tutorials.
 
 ## Tut-2 to create a geometric shape Triangle
-It's here to learn about make a triangle using coordinate systems and also color them
+It's here to learn about make a triangle using coordinate systems and also color them.
